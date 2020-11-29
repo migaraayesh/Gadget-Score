@@ -14,7 +14,7 @@
 html,body{
 height: 100vh;
 width: 100vw;
-background-image: url(../assets/index2header.png);
+background-image: url(index2header.png);
 background-position: 0% 9%;
 background-size: cover;
 background-repeat: no-repeat;
@@ -54,7 +54,7 @@ p{
 .parallax{
     height: 30vw;
     background-image: 
-    url(../assets/pexels-felix-mittermeier-956981\ \(1\).jpg)
+    url(pexels-felix-mittermeier-956981\ \(1\).jpg)
     ;
     background-position: center;
     background-repeat: no-repeat;
@@ -66,7 +66,7 @@ p{
 
 .parallax2{
     height: 40vw;
-    background: url(../assets/pexels-riccardo-bertolo-4245826.jpg) ;
+    background: url(pexels-riccardo-bertolo-4245826.jpg) ;
     background-position: 50%;
     background-repeat: no-repeat;
     background-attachment: fixed;
