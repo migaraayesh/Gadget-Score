@@ -1,0 +1,127 @@
+/*import fonts from google fonts*/
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&family=Roboto&family=Source+Sans+Pro&display=swap');
+:root{
+    --light-gray:#2b3032a1;
+    --primary-color: #006994;
+    --border:#2b303218;
+    --text-color:#ff686b;
+    --Poppins:"Poppins",cursive;
+    --Roboto:"Roboto",cursive;
+    --Source-Sans-Pro:"Source-Sans-Pro",cursive;
+}
+
+
+html,body{
+height: 100vh;
+width: 100vw;
+background-image: url(../assets/index2header.png);
+background-position: 0% 9%;
+background-size: cover;
+background-repeat: no-repeat;
+}
+*{
+    font-family: var(--Roboto);
+    margin: 0;
+    padding: 0;
+}
+
+.nav-link .navbar-brand{
+    color: white !important;
+}
+
+.navbar-brand{
+    font-size: 3vw !important;
+}
+
+.nav-link{
+    font-size: 1.3vw;
+}
+
+.content{
+    margin-top: 17vw;
+    margin-bottom: 35vw;
+}
+
+h1{
+    font-size: 5vw !important;
+}
+
+p{
+    font-size: 22px;
+    text-align: center;
+}
+
+.parallax{
+    height: 30vw;
+    background-image: 
+    url(../assets/pexels-felix-mittermeier-956981\ \(1\).jpg)
+    ;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: white;
+    display: flex;
+    align-items: center;
+}
+
+.parallax2{
+    height: 40vw;
+    background: url(../assets/pexels-riccardo-bertolo-4245826.jpg) ;
+    background-position: 50%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    color: white;
+    display: flex;
+    align-items: center;
+}
+
+.btn1{
+    background-color: transparent !important;
+    color: whitesmoke !important; 
+    border-color: whitesmoke !important;
+}
+
+/* footer*/
+
+footer{
+    background:black;
+    overflow: hidden;
+    padding: 14vmin;
+}
+
+footer p>span{
+    color: #ff512f;
+}
+
+footer input{
+    border: none !important;
+}
+
+footer input::placeholder{
+    color: white !important;
+
+}
+
+footer .input-group .input-group-text{
+    background: var(--bggradient);
+    border: none;
+}
+
+footer .column i {
+    color: #dd2476;
+
+}
+
+footer .column i+i {
+    padding:0 0.5em;
+}
+
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background: rgba(0, 0, 0, 0.815);
+    z-index: 9999;
+    transition: all 1.5s ease;
+  }
