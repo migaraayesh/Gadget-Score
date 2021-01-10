@@ -51,6 +51,214 @@ p{
     text-align: center;
 }
 
+/*article 1*/
+
+.article-1 .row .col-md-12 .panel{
+    text-align: left;
+    font-family: var(--Roboto);
+}
+
+.article-1 .row .col-md-12 .panel h1{
+    font-weight: bold;
+    font-size: 1.7em;
+}
+
+.article-1 .row .col-md-12 .panel h2{
+    font-weight: bold;
+    font-size: 1.7em;
+}
+
+.article-1 .row .col-md-12 .panel h3{
+    font-weight: bold;
+    font-size: 1.7em;
+}
+
+.article-1 .row .col-md-12 .panel h4{
+    font-weight: bold;
+    font-size: 1.7em;
+}
+
+.article-1 .row .col-md-12 .panel h5{
+    font-weight: bold;
+    font-size: 1.7em;
+}
+
+.article-1 .row .col-md-12 .panel h6{
+    font-weight: bold;
+    font-size: 1.7em;
+}
+
+.article-1 .row .col-md-12 .panel h7{
+    font-weight: bold;
+    font-size: 1.7em;
+}
+
+.article-1 .row .col-md-12 .panel h8{
+    font-weight: bold;
+    font-size: 1.7em;
+}
+
+.article-1 .row .col-md-12 .panel h9{
+    font-weight: bold;
+    font-size: 1.7em;
+}
+
+.article-1 .row .col-md-12 .panel h10{
+    font-weight: bold;
+    font-size: 1.7em;
+}
+
+.article-1 .row .col-md-12 .panel p{
+    font-size: 1.2em;
+    color: rgba(0, 0, 0, 0.5);
+
+}
+
+.article-1 .row .col-md-12 .panel article{
+    font-size: 1.2em;
+    color: rgba(0, 0, 0, 0.5);
+
+}
+
+
+/*article 2*/
+
+.article-2 .row .col-md-12 .panel{
+    text-align: left;
+    font-family: var(--Roboto);
+}
+
+.article-2 .row .col-md-12 .panel h1{
+    font-weight: bold;
+    font-size: 1.7em;
+}
+
+.article-2 .row .col-md-12 .panel h2{
+    font-weight: bold;
+    font-size: 1.7em;
+}
+
+.article-2 .row .col-md-12 .panel h3{
+    font-weight: bold;
+    font-size: 1.7em;
+}
+
+.article-2 .row .col-md-12 .panel h4{
+    font-weight: bold;
+    font-size: 1.7em;
+}
+
+.article-2 .row .col-md-12 .panel h5{
+    font-weight: bold;
+    font-size: 1.7em;
+}
+
+.article-2 .row .col-md-12 .panel h6{
+    font-weight: bold;
+    font-size: 1.7em;
+}
+
+.article-2 .row .col-md-12 .panel h7{
+    font-weight: bold;
+    font-size: 1.7em;
+}
+
+.article-2 .row .col-md-12 .panel h8{
+    font-weight: bold;
+    font-size: 1.7em;
+}
+
+.article-2 .row .col-md-12 .panel h9{
+    font-weight: bold;
+    font-size: 1.7em;
+}
+
+.article-2 .row .col-md-12 .panel h10{
+    font-weight: bold;
+    font-size: 1.7em;
+}
+
+.article-2 .row .col-md-12 .panel p{
+    font-size: 1.2em;
+    color: rgba(0, 0, 0, 0.5);
+
+}
+
+.article-2 .row .col-md-12 .panel article{
+    font-size: 1.2em;
+    color: rgba(0, 0, 0, 0.5);
+
+}
+
+/*article 3*/
+
+.article-3 .row .col-md-12 .panel{
+    text-align: left;
+    font-family: var(--Roboto);
+}
+
+.article-3 .row .col-md-12 .panel h1{
+    font-weight: bold;
+    font-size: 1.7em;
+}
+
+.article-3 .row .col-md-12 .panel h2{
+    font-weight: bold;
+    font-size: 1.7em;
+}
+
+.article-3 .row .col-md-12 .panel h3{
+    font-weight: bold;
+    font-size: 1.7em;
+}
+
+.article-3 .row .col-md-12 .panel h4{
+    font-weight: bold;
+    font-size: 1.7em;
+}
+
+.article-3 .row .col-md-12 .panel h5{
+    font-weight: bold;
+    font-size: 1.7em;
+}
+
+.article-3 .row .col-md-12 .panel h6{
+    font-weight: bold;
+    font-size: 1.7em;
+}
+
+.article-3 .row .col-md-12 .panel h7{
+    font-weight: bold;
+    font-size: 1.7em;
+}
+
+.article-3 .row .col-md-12 .panel h8{
+    font-weight: bold;
+    font-size: 1.7em;
+}
+
+.article-3 .row .col-md-12 .panel h9{
+    font-weight: bold;
+    font-size: 1.7em;
+}
+
+.article-3 .row .col-md-12 .panel h10{
+    font-weight: bold;
+    font-size: 1.7em;
+}
+
+.article-3 .row .col-md-12 .panel p{
+    font-size: 1.2em;
+    color: rgba(0, 0, 0, 0.5);
+
+}
+
+.article-3 .row .col-md-12 .panel article{
+    font-size: 1.2em;
+    color: rgba(0, 0, 0, 0.5);
+
+}
+
 .parallax{
     height: 30vw;
     background-image: 
@@ -62,6 +270,212 @@ p{
     color: white;
     display: flex;
     align-items: center;
+}
+
+/*article 4*/
+
+.article-4 .row .col-md-12 .panel{
+    text-align: left;
+    font-family: var(--Roboto);
+}
+
+.article-4 .row .col-md-12 .panel h1{
+    font-weight: bold;
+    font-size: 1.7em;
+}
+
+.article-4 .row .col-md-12 .panel h2{
+    font-weight: bold;
+    font-size: 1.7em;
+}
+
+.article-4 .row .col-md-12 .panel h3{
+    font-weight: bold;
+    font-size: 1.7em;
+}
+
+.article-4 .row .col-md-12 .panel h4{
+    font-weight: bold;
+    font-size: 1.7em;
+}
+
+.article-4 .row .col-md-12 .panel h5{
+    font-weight: bold;
+    font-size: 1.7em;
+}
+
+.article-4 .row .col-md-12 .panel h6{
+    font-weight: bold;
+    font-size: 1.7em;
+}
+
+.article-4 .row .col-md-12 .panel h7{
+    font-weight: bold;
+    font-size: 1.7em;
+}
+
+.article-4 .row .col-md-12 .panel h8{
+    font-weight: bold;
+    font-size: 1.7em;
+}
+
+.article-4 .row .col-md-12 .panel h9{
+    font-weight: bold;
+    font-size: 1.7em;
+}
+
+.article-4 .row .col-md-12 .panel h10{
+    font-weight: bold;
+    font-size: 1.7em;
+}
+
+.article-4 .row .col-md-12 .panel p{
+    font-size: 1.2em;
+    color: rgba(0, 0, 0, 0.5);
+
+}
+
+.article-4 .row .col-md-12 .panel article{
+    font-size: 1.2em;
+    color: rgba(0, 0, 0, 0.5);
+
+}
+
+/*article 5*/
+
+.article-5 .row .col-md-12 .panel{
+    text-align: left;
+    font-family: var(--Roboto);
+}
+
+.article-5 .row .col-md-12 .panel h1{
+    font-weight: bold;
+    font-size: 1.7em;
+}
+
+.article-5 .row .col-md-12 .panel h2{
+    font-weight: bold;
+    font-size: 1.7em;
+}
+
+.article-5 .row .col-md-12 .panel h3{
+    font-weight: bold;
+    font-size: 1.7em;
+}
+
+.article-5 .row .col-md-12 .panel h4{
+    font-weight: bold;
+    font-size: 1.7em;
+}
+
+.article-5 .row .col-md-12 .panel h5{
+    font-weight: bold;
+    font-size: 1.7em;
+}
+
+.article-5 .row .col-md-12 .panel h6{
+    font-weight: bold;
+    font-size: 1.7em;
+}
+
+.article-5 .row .col-md-12 .panel h7{
+    font-weight: bold;
+    font-size: 1.7em;
+}
+
+.article-5 .row .col-md-12 .panel h8{
+    font-weight: bold;
+    font-size: 1.7em;
+}
+
+.article-5 .row .col-md-12 .panel h9{
+    font-weight: bold;
+    font-size: 1.7em;
+}
+
+.article-5 .row .col-md-12 .panel h10{
+    font-weight: bold;
+    font-size: 1.7em;
+}
+
+.article-5 .row .col-md-12 .panel p{
+    font-size: 1.2em;
+    color: rgba(0, 0, 0, 0.5);
+
+}
+
+.article-5 .row .col-md-12 .panel article{
+    font-size: 1.2em;
+    color: rgba(0, 0, 0, 0.5);
+
+}
+
+/*article 6*/
+
+.article-6 .row .col-md-12 .panel{
+    text-align: left;
+    font-family: var(--Roboto);
+}
+
+.article-6 .row .col-md-12 .panel h1{
+    font-weight: bold;
+    font-size: 1.7em;
+}
+
+.article-6 .row .col-md-12 .panel h2{
+    font-weight: bold;
+    font-size: 1.7em;
+}
+
+.article-6 .row .col-md-12 .panel h3{
+    font-weight: bold;
+    font-size: 1.7em;
+}
+
+.article-6 .row .col-md-12 .panel h4{
+    font-weight: bold;
+    font-size: 1.7em;
+}
+
+.article-6 .row .col-md-12 .panel h5{
+    font-weight: bold;
+    font-size: 1.7em;
+}
+
+.article-6 .row .col-md-12 .panel h6{
+    font-weight: bold;
+    font-size: 1.7em;
+}
+
+.article-6 .row .col-md-12 .panel h7{
+    font-weight: bold;
+    font-size: 1.7em;
+}
+
+.article-6 .row .col-md-12 .panel h8{
+    font-weight: bold;
+    font-size: 1.7em;
+}
+
+.article-6 .row .col-md-12 .panel h9{
+    font-weight: bold;
+    font-size: 1.7em;
+}
+
+.article-6 .row .col-md-12 .panel h10{
+    font-weight: bold;
+    font-size: 1.7em;
+}
+
+.article-6 .row .col-md-12 .panel p{
+    font-size: 1.2em;
+    color: rgba(0, 0, 0, 0.5);
+
+}
+.article-6 .row .col-md-12 .panel article{
+    font-size: 1.2em;
+    color: rgba(0, 0, 0, 0.5);
+
 }
 
 .parallax2{
