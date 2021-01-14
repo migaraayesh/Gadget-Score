@@ -23,6 +23,42 @@ $('.slider-one')
      autoplaySpeed: 3000
  });
 
+/**Third Slider */
+
+ $('.slider-three')
+ .not(".slick-initialized")
+ .slick({
+     prevArrow:".site-slider-three .prev",
+     nextArrow:".site-slider-three .next",
+     slidesToShow:5,
+     slidesToScroll:1,
+     autoplaySpeed: 3000
+ });
+
+ /**Fourth Slider */
+
+ $('.slider-four')
+ .not(".slick-initialized")
+ .slick({
+     prevArrow:".site-slider-four .prev",
+     nextArrow:".site-slider-four .next",
+     slidesToShow:5,
+     slidesToScroll:1,
+     autoplaySpeed: 3000
+ });
+
+ /**Fifth Slider */
+
+ $('.slider-five')
+ .not(".slick-initialized")
+ .slick({
+     prevArrow:".site-slider-five .prev",
+     nextArrow:".site-slider-five .next",
+     slidesToShow:5,
+     slidesToScroll:1,
+     autoplaySpeed: 3000
+ });
+
  let navbar = $(".navbar");
 
 $(window).scroll(function(){
